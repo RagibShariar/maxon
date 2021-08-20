@@ -1,0 +1,632 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .section-p {
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+    .section-h1 {
+        font-size: 32px;
+        line-height: 50px;
+    }
+    .section-h2 {
+        font-size: 29px;
+        line-height: 40px;
+    }
+    .section-h3 {
+        font-size: 25px;
+        line-height: 32px;
+    }
+    .section-h4 {
+        font-size: 17px;
+    }
+    .section-h6 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .btn-custom {
+        padding: 2px 30px !important;
+    }
+    /* header start */
+    .main-menu {
+        background-color: #f7f7f7;
+        margin-top: 20px;
+    }
+    .main-menu ul li:last-child {
+        margin-right: 25px ;
+    }
+    /* header end */
+    .banner {
+        padding-top: 95px;
+    }
+    .banner-content p {
+        padding-right: 0;
+    }
+    /* work start */
+    .work {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .work-1 {
+        margin-top: 0;
+    }
+    .work-2 {
+        margin-top: 0;
+    }
+    .work-content {
+        max-width: 100%;
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
+    .single-rec-work p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    /* work end */
+    /* feature start */
+    .feature {
+        padding-bottom: 20px;
+    }
+    .feature-heading {
+        margin-bottom: 30px;
+    }
+    .single-feature {
+        padding: 30px 18px;
+    }
+    .single-feature h3 {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    /* feature end */
+    /* recent work start */
+    .recent-work {
+        padding-bottom: 70px;
+    }
+    .single-rec-work {
+        margin-top: 20px;
+    }
+    .recent-work-1 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .recent-work-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /* recent work end */
+    /* funfact start */
+    .funfact {
+        padding: 70px 0;
+    }
+    .single-funfact p span {
+        margin-right: 15px;
+        font-size: 50px;
+    }
+    .single-funfact p {
+        font-size: 20px;
+    }
+    /* funfact end */
+    /* testimonial start */
+    .testimonial {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    .testimonial-header {
+        margin-bottom: 50px;
+    }
+    .single-slider {
+        max-width: 100%;
+        padding-left: 0;
+    }
+    .single-slider p {
+        padding-left: 0;
+        padding-top: 40px;
+        padding-bottom: 15px;
+    }
+    .carousel-control-prev {
+        left: 200px;
+    }
+    .carousel-control-next {
+        right: 40px;
+    }
+    /* testimonial end */
+    /* funfact section start */
+    .funfact {
+        padding: 60px 0;
+    }
+    .single-funfact{
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .single-funfact p {
+        margin-top: 0;
+        display: block;
+    }
+    /* team */
+    .team {
+        padding-bottom: 60px;
+    }
+    .team-header {
+        margin-bottom: 50px;
+    }
+    /* team end */
+    /* funfact section end */
+    .footer-top {
+        padding: 60px 0 30px 0;
+        background-color: #162b45;
+    }
+    .footer-glry img{
+        width: 100%;
+    }
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* common css  */
+    .section-h6 {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .section-h3 {
+        font-size: 26px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+    .section-h1 {
+        font-size: 42px;
+    }
+    .section-h2 {
+        font-size: 36px;
+    }
+    .section-h4 {
+        font-size: 17px;
+    }
+    .section-p {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    /* header start */
+    .main-menu {
+        background-color: #f7f7f7;
+        margin-top: 20px;
+    }
+    .main-menu ul li:last-child {
+        margin-right: 25px ;
+    }
+    /* header end */
+    /* banner start  */
+    .banner {
+        padding-top: 100px;
+        padding-bottom: 70px;
+    }
+    /* banner end  */
+    /* work section start  */
+    .work {
+        padding-top: 60px;
+        padding-bottom: 70px;
+    }
+    .work-1 {
+        margin-top: 30px;
+    }
+    .work-2 {
+        margin-top: 0;
+    }
+    .work-content {
+        max-width: 100%;
+    }
+    .work-photos-wrapper h2 {
+        margin-top: 65px;
+        margin-left: 30px;
+    }
+    .work-content {
+        padding-left: 0;
+    }
+    /* work section end  */
+    /* feature start  */
+    .feature-heading {
+        margin-bottom: 60px;
+    }
+    .single-feature h3 {
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-size: 19px;
+    }
+    /* feature end  */
+    /* recent-work start */
+    .recent-work {
+        padding-bottom: 100px;
+    }
+    .single-rec-work {
+        margin-top: 50px;
+    }
+    .single-rec-work p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .recent-work-1 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .recent-work-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /* recent-work end */
+    /* funfact section start */
+    .funfact {
+        padding: 60px 0;
+    }
+    .single-funfact{
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .single-funfact p {
+        margin-top: 0;
+        display: block;
+    }
+    /* funfact section end */
+    /* funfact end */
+    /* testimonial start */
+    .testimonial {
+        padding-top: 80px;
+        padding-bottom: 90px;
+    }
+    .single-slider {
+        max-width: 100%;
+    }
+    .single-slider p {
+        padding-left: 0;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .carousel-control-prev {
+        left: 230px;
+    }
+    .carousel-control-next {
+        right: 180px;
+    }
+    /* testimonial end */
+    /* team start  */
+    .team {
+        padding-bottom: 80px;
+    }
+    .team-header {
+        margin-bottom: 70px;
+    }
+    .team-details h4 {
+        font-size: 20px;
+    }
+    .team-details h6 {
+        font-size: 13px;
+    }
+    .team-social a {
+        margin: 0 2px;
+        font-size: 13px;
+    }
+    /* team end  */
+    /* footer strt  */
+    .footer-top {
+        padding: 80px 0 40px 0;
+    }
+    /* footer end  */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* common css  */
+    .section-h6 {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .section-h3 {
+        font-size: 26px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+    .section-h1 {
+        font-size: 50px;
+        line-height: 1.5;
+    }
+    .section-h2 {
+        font-size: 38px;
+        line-height: 1.2;
+    }
+    .section-h4 {
+        font-size: 18px;
+    }
+    .section-p {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    /* header start */
+    .main-menu {
+        background-color: #f7f7f7;
+        margin-top: 20px;
+    }
+    .main-menu ul li:last-child {
+        margin-right: 25px ;
+    }
+    /* header end */
+    /* work section start  */
+    .work {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+    .work-1 {
+        margin-top: 40px;
+    }
+    .work-content {
+        max-width: 100%;
+    }
+    .work-photos-wrapper h2 {
+        margin-top: 65px;
+        margin-left: 30px;
+    }
+    .work-content {
+        padding-left: 0;
+    }
+    /* work section end  */
+    /* feature start  */
+    .feature-heading {
+        margin-bottom: 60px;
+    }
+    .single-feature h3 {
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-size: 19px;
+    }
+    /* feature end  */
+    /* recent-work start */
+    .recent-work {
+        padding-bottom: 100px;
+    }
+    .single-rec-work {
+        margin-top: 50px;
+    }
+    .single-rec-work p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .recent-work-1 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .recent-work-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /* recent-work end */
+    /* funfact */
+    .funfact {
+        padding: 80px 0;
+    }
+    .single-funfact p span {
+        margin-right: 16px;
+        font-size: 53px;
+    }
+    .single-funfact p {
+        font-size: 19px;
+    }
+    /* funfact end */
+    /* testimonial start */
+    .testimonial {
+        padding-top: 80px;
+        padding-bottom: 90px;
+    }
+    .single-slider {
+        max-width: 100%;
+    }
+    .single-slider p {
+        padding-left: 0;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .carousel-control-prev {
+        left: 230px;
+    }
+    .carousel-control-next {
+        right: 350px;
+    }
+    /* testimonial end */
+    /* team start  */
+    .team {
+        padding-bottom: 80px;
+    }
+    .team-header {
+        margin-bottom: 70px;
+    }
+    .team-details h4 {
+        font-size: 20px;
+    }
+    .team-details h6 {
+        font-size: 13px;
+    }
+    .team-social a {
+        margin: 0 2px;
+        font-size: 13px;
+    }
+    /* team end  */
+    /* footer strt  */
+    .footer-top {
+        padding: 80px 0 40px 0;
+    }
+    /* footer end  */
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .section-h1 {
+        font-size: 50px;
+        line-height: 1.5;
+    }
+    .section-h2 {
+        font-size: 40px;
+        line-height: 1.2;
+    }
+    .section-p {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    /* work section start  */
+    .work {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+    .work-pattern-1 {
+        margin-left: -90px;
+    }
+    .work-pattern-2 {
+        bottom: 80px;
+        right: 36px;
+    }
+    .work-photos-wrapper h2 {
+        margin-top: 65px;
+        margin-left: 30px;
+    }
+    .work-content {
+        padding-left: 0;
+    }
+    /* work section end  */
+    /* feature start  */
+    .feature-heading {
+        margin-bottom: 60px;
+    }
+    .single-feature h3 {
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-size: 19px;
+    }
+    /* feature end  */
+    /* recent-work start */
+    .recent-work {
+        padding-bottom: 100px;
+    }
+    .single-rec-work {
+        margin-top: 50px;
+    }
+    .single-rec-work p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .recent-work-1 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .recent-work-2 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    /* recent-work end */
+    /* funfact */
+    .funfact {
+        padding: 80px 0;
+    }
+    .single-funfact p span {
+        margin-right: 16px;
+        font-size: 53px;
+    }
+    .single-funfact p {
+        font-size: 19px;
+    }
+    /* funfact end */
+    /* testimonial start */
+    .testimonial {
+        padding-top: 80px;
+        padding-bottom: 90px;
+    }
+    .single-slider p {
+        padding-left: 0;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .carousel-control-prev {
+        left: 230px;
+    }
+    .carousel-control-next {
+        right: 200px;
+    }
+    /* testimonial end */
+    /* team start  */
+    .team {
+        padding-bottom: 80px;
+    }
+    .team-header {
+        margin-bottom: 70px;
+    }
+    .team-social a {
+        margin: 0 15px;
+    }
+    /* team end  */
+    /* footer strt  */
+    .footer-top {
+        padding: 80px 0 40px 0;
+    }
+    /* footer end  */
+    
+}
+
+ /* X-Large devices (xl desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* work section start  */
+    .work {
+        padding-top: 100px;
+        padding-bottom: 80px;
+    }
+    .work-pattern-1 {
+        margin-left: 0;
+    }
+    .work-pattern-2 {
+        bottom: 70px;
+        right: 60px;
+    }
+    .work-photos-wrapper h2 {
+        margin-top: 47px;
+        margin-left: 40px;
+    }
+    .work-content {
+        padding-left: 0;
+    }
+    /* work section end  */
+    /* feature start  */
+    .feature-heading {
+        margin-bottom: 60px;
+    }
+    /* feature end  */
+    /* recent-work start */
+    .single-rec-work {
+        margin-top: 50px;
+    }
+    .recent-work-1 {
+        padding-left: 70px;
+        padding-right: 60px;
+    }
+    .recent-work-2 {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    /* recent-work end */
+    /* funfact */
+    .funfact {
+        padding: 80px 0;
+    }
+    /* funfact end */
+    /* testimonial start */
+    .testimonial {
+        padding-top: 80px;
+        padding-bottom: 90px;
+    }
+    .carousel-control-prev {
+        left: 240px;
+    }
+    .carousel-control-next {
+        right: 310px;
+    }
+    /* testimonial end */
+    /* team start  */
+    .team-header {
+        margin-bottom: 80px;
+    }
+    /* team end  */
+}
+
+ /* XX-large devices (xxl desktops, 1400px and up) */
+@media (min-width: 1400px) {}
