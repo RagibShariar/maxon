@@ -5,16 +5,3 @@ menu        323541
 h1          112e41
 p           888888
 
-
-
-.BG {
-  border-radius: 5px;
-  background-color: rgb( 255, 255, 255 );
-  box-shadow: 0px 10px 40px 0px rgb( 140, 94, 255 );
-  position: absolute;
-  left: 683px;
-  top: 1985px;
-  width: 263px;
-  height: 355px;
-  z-index: 425;
-}
